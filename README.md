@@ -62,7 +62,7 @@ The analysis was conducted using a dataset for a fictitious telecommunications c
 ### Customer Service Calls
 - Even though the use of customer service is higher for churners, California stands out with the highest churn rate and the lowest number of customer service calls.
 
-## Recommendations
+## Recommended Next Actions
 Based on the findings, the following actions are recommended to reduce customer churn:
 
 1. **Enhance Competitiveness:**
