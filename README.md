@@ -85,21 +85,6 @@ Based on the findings, the following actions are recommended to reduce customer 
 6. **International Plan Promotion:**
    - Target customers without international plans with promotions or propose they downgrade their plan to increase satisfaction and reduce churn.
 
-## How to Run the Project
-
-1. **Clone the repository:**
-    ```bash
-    git clone https://github.com/krystalbrantley/data-analyst-portfolio.git
-    cd data-analyst-portfolio/customer-churn-analysis
-    ```
-
-2. **Open the Power BI Report:**
-    - Open the `Customer Churn Report.pbix` file in Power BI Desktop.
-    - Review and interact with the report to explore the analysis.
-
-3. **Review the Analysis and Findings:**
-    - Examine the visualizations and insights provided in the Power BI report.
-    - Consider the recommendations and how they can be applied to reduce customer churn.
 
 ## Conclusion
 
