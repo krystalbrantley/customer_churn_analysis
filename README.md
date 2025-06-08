@@ -32,9 +32,6 @@ The analysis was conducted using a dataset for a fictitious telecommunications c
 
 ![Customer Churn Analysis Groups and Categories](https://github.com/krystalbrantley/customer_churn_analysis/blob/main/Customer%20Churn%20Groups.png?raw=true)
 
-### Investigate Churn Rate by State
-- California has an abnormally high churn rate with more than 60% of customers leaving.
-
 ### Analyze and Visualize Data
 #### Analyzing Demographics
 - **Churn rate by age:** The churn rate increases with age. Senior citizens (age 65 and over) have a churn rate of 38.46%, significantly above the average.
@@ -52,13 +49,16 @@ The analysis was conducted using a dataset for a fictitious telecommunications c
 - 91% of people without an international plan could be potential clients for a new promotion.
 - The churn rate for customers who pay for an international plan but don’t call internationally is extremely high.
 
+![Customer Churn Analysis Insights](https://github.com/krystalbrantley/customer_churn_analysis/blob/main/Customer%20Churn%20Insights.png?raw=true)
+### Investigate Churn Rate by State
+- California has an abnormally high churn rate with more than 60% of customers leaving.
+
 ### Investigate Reasons for Churn
 - The top 3 reasons customers churn are:
   - Competitors made a better offer
   - Competitors had better devices
   - Attitude of support person
-
-![Customer Churn Analysis Insights](https://github.com/krystalbrantley/customer_churn_analysis/blob/main/Customer%20Churn%20Insights.png?raw=true)
+  
 ### Customer Service Calls
 - Even though the use of customer service is higher for churners, California stands out with the highest churn rate and the lowest number of customer service calls.
 
