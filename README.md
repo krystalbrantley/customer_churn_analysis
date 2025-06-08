@@ -31,14 +31,6 @@ The analysis was conducted using a dataset for a fictitious telecommunications c
 ## Data Exploration and Analysis
 
 ![Customer Churn Analysis Groups and Categories](https://github.com/krystalbrantley/customer_churn_analysis/blob/main/Customer%20Churn%20Groups.png?raw=true)
-### Determine the Churn Rate
-- The churn rate for Databel is approximately 27%.
-
-### Investigate Reasons for Churn
-- The top 3 reasons customers churn are:
-  - Competitors made a better offer
-  - Competitors had better devices
-  - Attitude of support person
 
 ### Investigate Churn Rate by State
 - California has an abnormally high churn rate with more than 60% of customers leaving.
@@ -57,8 +49,14 @@ The analysis was conducted using a dataset for a fictitious telecommunications c
 - Customers who consume 10 or more gigabytes and are not on an unlimited data plan pay $31.19 on average, incurring extra costs for additional data usage.
 
 #### International Calls
-- 72% of people without an international plan could be potential clients for a new promotion.
+- 91% of people without an international plan could be potential clients for a new promotion.
 - The churn rate for customers who pay for an international plan but don’t call internationally is extremely high.
+
+### Investigate Reasons for Churn
+- The top 3 reasons customers churn are:
+  - Competitors made a better offer
+  - Competitors had better devices
+  - Attitude of support person
 
 ![Customer Churn Analysis Insights](https://github.com/krystalbrantley/customer_churn_analysis/blob/main/Customer%20Churn%20Insights.png?raw=true)
 ### Customer Service Calls
